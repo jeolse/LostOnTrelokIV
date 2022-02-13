@@ -1,3 +1,8 @@
+/**
+ * Main for Java
+ * 
+ */
+
 package lostontrelokiv;
 
 import java.util.Scanner;
